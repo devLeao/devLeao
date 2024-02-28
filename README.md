@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leandro Filipe 🤙🏾
+### Olá! Leandro aqui! 🤙🏾
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leeozzt?igsh=ODEzcW1vYTF0NjZv)
 
 Iniciante na área de dev, cursando ads e apaixonado pela tecnologia.
