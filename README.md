@@ -4,7 +4,7 @@
 
 **`👋 Sobre Mim `**
 
-Sou Leandro Filipe Silva Leão, tenho 20 anos, natural de Minas Gerais.Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° período na Faculdade Anhanguera. 
+Sou Leandro Filipe Silva Leão, tenho 20 anos, natural de Minas Gerais. Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° período na Faculdade Anhanguera. 
 
 Tenho experiência com desenvolvimento web, banco de dados MySQL e linguagens como HTML, SQL e C++.
 
