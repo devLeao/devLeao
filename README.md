@@ -1,25 +1,9 @@
 # 👨🏾‍💻 Dev Leandro Leão
 
-**`Analista e Desenvolvedor de Sistemas`**
+**`Desenvolvedor de sistemas`**
 
-**`👋 Sobre Mim `**
-
-Sou Leandro Filipe Silva Leão, tenho 20 anos, natural de Minas Gerais. Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° período na Faculdade Anhanguera. 
-
-Tenho experiência com desenvolvimento web, banco de dados MySQL e linguagens como HTML, SQL e C++.
-
-💡 Me interesso por desafios que me ajudem a crescer profissionalmente e estou sempre em busca de aprimorar minhas habilidades.
-
-🛠️ Conhecimentos:
-
-HTML, SQL, C++
-Banco de dados MySQL
-Power BI (básico)
-Pacote Office
-
-
-
-
+Sou Leandro Filipe Silva Leão, tenho 20 anos, natural de Minas Gerais. Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° período na Faculdade Anhanguera.
+<br> Amante da  programação, estou sempre em busca de mais conhecimento e de aperfeiçoamento das minhas habilidades.
 
 <p align="left">
     📧 leandrofls16@gmail.com
@@ -33,15 +17,6 @@ Pacote Office
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -67,11 +42,15 @@ Pacote Office
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
-
-
-
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+/>
 <img 
     align="left" 
     alt="PHP" 
@@ -80,8 +59,14 @@ Pacote Office
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -90,7 +75,6 @@ Pacote Office
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
 
@@ -105,6 +89,11 @@ Pacote Office
     src="https://github-readme-stats.vercel.app/api?username=devLeao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLeao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
